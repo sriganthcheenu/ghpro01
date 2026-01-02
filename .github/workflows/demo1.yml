@@ -13,10 +13,6 @@ on:
       - main
       - 'develop/*'
       - 'test/**' 
-    paths:
-      - 'src/**'
-      - 'config/**'
-      - '.github/workflows/demo1.yml'
     paths-ignore:
       - 'docs/**'
 jobs:
