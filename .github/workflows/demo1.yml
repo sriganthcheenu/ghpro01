@@ -13,8 +13,6 @@ on:
       - main
       - 'develop/*'
       - 'test/**' 
-    branches-ignore:
-      - 'docs/**'
     paths:
       - 'src/**'
       - 'config/**'
